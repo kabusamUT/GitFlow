@@ -1,8 +1,7 @@
-# CSET 3600 - Homework Assignment 7
-## Khalid Abusamieh
+# UT Homework Assignment
 > An illustration of GitFlow on GitHub
 
-This is the README for GitFlow.
+This is the app that was used in reference of the live demo for GitFlow.
 
 ### REQUIREMENTS
 
@@ -20,5 +19,3 @@ This is the README for GitFlow.
 1. Create a pull request `hub pull-request -b donmiller-ut:master -h donmiller-ut:my-awesome-feature`
 
 _Testing_
-
-_Markdown Submission for HW7_

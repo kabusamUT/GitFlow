@@ -1,0 +1,13 @@
+package edu.utoledo;
+
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+        System.out.println("2+3=" + addTwoPlusTwo());
+    }
+
+    public static int addTwoPlusTwo() {
+        return 2 + 3;
+    }
+}
